@@ -9,11 +9,15 @@ Sou Ruben Castro Vieira, estou Cursando atualmente na instituição EBAC no curs
 
 ### Detalhes:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RbNkZTr0&show_icons=true&theme=blue_navy)](https://github.com/RbNkZTr0/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RbNkZTr0&show_icons=true&theme=blue_navy)
 
 ### Projetos:
 
-[![readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RbNkZTr0&repo=RbNkZTr0&theme=dark)](https://github.com/RbNkZTr0/github-readme-stats)
+![readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RbNkZTr0&repo=RbNkZTr0&theme=dark)
+
+
+### Linguagens Utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RbNkZTr0&layout=compact&langs_count=7&theme=blue_navy)](https://github.com/RbNkZTr0/github-readme-stats)
 
 ## Contatos:
 
